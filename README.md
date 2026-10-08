@@ -5,7 +5,6 @@ Cyber Security Student based in the North-West of England
 
 * ✉️  You can contact me at [vexion20@outlook.com](mailto:vexion20@outlook.com)
 * 🧠  I'm currently learning at the moment: Information Security Management & Backend SQL Engineering
-* 💬  I worked on my own sort of AI before OpenAI did 🤫 (Artificial Unintelligence) [FIRTACH Archive](https://github.com/Vex1on/FIRTACH-Archive)
 * 🛜  You can read up on some of my projects on my GitHub pages site: [Projects](https://vex1on.github.io/Latest-Projects.html).
 
 <p align="left">
